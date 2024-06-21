@@ -1,5 +1,3 @@
 export default function CharLength() {
-    return (
-        <div>test</div>
-    )
+  return <div className="">test</div>;
 }
